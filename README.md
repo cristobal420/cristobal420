@@ -12,7 +12,5 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,cs,dotnet,mysql,vscode,visualstudio,github,discord&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,cs,dotnet,mysql,vscode,visualstudio,github,discord&perline=14" />
 </p>
