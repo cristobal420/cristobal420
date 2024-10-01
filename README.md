@@ -9,6 +9,9 @@
 - 💞️ I'm looking to collaborate on PHP projects.
 - 📫 How to contact me 420.cubillos@gmail.com.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cristobal420&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
