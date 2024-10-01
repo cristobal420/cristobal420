@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @cristobal420.
 - 👀 I'm interested in web development.
-- 🌱 I am currently learning .NET Core.https://github.com/cristobal420/cristobal420/blob/main/README.md
+- 🌱 I am currently learning .NET Core.
 - 💞️ I'm looking to collaborate on PHP projects.
 - 📫 How to contact me 420.cubillos@gmail.com.
 
