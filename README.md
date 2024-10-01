@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-![](https://github-profile-trophy.vercel.app/?username=cristobal420&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+https://github-profile-trophy.vercel.app/?username=cristobal420&theme=onedark&no-frame=true&no-bg=false&margin-w=4
 </p>
 
 <div id="user-content-toc">
