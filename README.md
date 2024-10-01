@@ -4,12 +4,10 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-    - 👀 I'm interested in web development.
-    - 🌱 I am currently learning .NET Core.
-    - 💞️ I'm looking to collaborate on PHP projects.
-    - 📫 How to contact me 420.cubillos@gmail.com.
-</div>
+- 👀 I'm interested in web development.
+- 🌱 I am currently learning .NET Core.
+- 💞️ I'm looking to collaborate on PHP projects.
+- 📫 How to contact me 420.cubillos@gmail.com.
 
 <div id="user-content-toc">
   <ul align="center">
