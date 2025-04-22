@@ -18,11 +18,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,cs,dotnet,mysql,vscode,visualstudio,github,discord&perline=14" />
 </p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">GitHub Trophies 🏆</h2></summary>
-  </ul>
-</div>
-
-![](https://github-profile-trophy.vercel.app/?username=cristobal420&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
